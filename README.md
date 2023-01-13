@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tamizhe
+- 👋 Hi, I’m @tamizhamuthan E
 - 👀 I’m interested in Big Data Analyst
 - 🌱 I’m currently learning Big Data 
 - 💞️ I’m looking to collaborate on Web-developer and Android-developer
